@@ -1,4 +1,4 @@
-# Exercicio de orientação de objetos em java #
+# Exercicio de Manipulação de datas #
 
 
-Exercicio feito para fixar melhor como funciona a orientação de objetos na linguagem java
+Exercicios feitos para melhor fixação da manipulação de datas em java.
